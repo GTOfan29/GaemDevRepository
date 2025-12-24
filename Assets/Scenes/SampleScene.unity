@@ -682,6 +682,7 @@ GameObject:
   - component: {fileID: 1169382839}
   - component: {fileID: 1169382838}
   - component: {fileID: 1169382842}
+  - component: {fileID: 1169382843}
   m_Layer: 0
   m_Name: Capsule
   m_TagString: Player
@@ -850,9 +851,22 @@ MonoBehaviour:
   m_ActionEvents: []
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
-  m_DefaultActionMap: 
+  m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
+--- !u!114 &1169382843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1169382837}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f380e4244025b3429805da01fbdc619, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 500
 --- !u!1 &1227891294
 GameObject:
   m_ObjectHideFlags: 0

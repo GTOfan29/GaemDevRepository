@@ -4,7 +4,7 @@ using UnityEngine.InputSystem;
 public class PlayerController : MonoBehaviour
 {
     private PlayerControls controls;
-    [SerializeField] private float speed = 50000f; // Hızı buradan değiştirebilirsin
+    [SerializeField] private float speed = 5f; // Hızı buradan değiştirebilirsin
 
     void Awake()
     {

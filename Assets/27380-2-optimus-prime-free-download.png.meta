@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 839c85ec572050f4a83808bdf31eb500
+guid: 5f1fce89690250d49b858587e6f0cfe6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6261013977535170755
-    second: optimus_0
+      213: -2238935291883155606
+    second: 27380-2-optimus-prime-free-download_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: optimus_0
+      name: 27380-2-optimus-prime-free-download_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 920
-        height: 529
+        x: 100
+        y: 73
+        width: 1585
+        height: 940
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d37b24fa5f86c19a0800000000000000
-      internalID: -6261013977535170755
+      spriteID: a6f0834e634bde0e0800000000000000
+      internalID: -2238935291883155606
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      optimus_0: -6261013977535170755
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
